@@ -2,6 +2,8 @@
 
 2d multiplayer html5 board game simulator.
 
+Check out https://github.com/swilbur/board-gamer-2d which has more recent changes.
+
 ## Demo
 
 Known to work with Node v8.11.1 (on Raspberry Pi, Raspbian Stretch) and v10.16.3 (Windows).
